@@ -1,3 +1,5 @@
+![VidSnapAI Screenshot](screenshot(12).png)
+
 🎬 VidSnapAI
 VidSnapAI is a smart web app that lets you turn any image and custom text into an AI-generated video reel — complete with realistic voiceover using ElevenLabs. Just upload your image, type your message, and VidSnapAI will create a short, engaging video that you can save directly to your gallery.
 
